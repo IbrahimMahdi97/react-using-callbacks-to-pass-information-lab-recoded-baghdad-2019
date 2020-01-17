@@ -11,7 +11,7 @@ export default class Matrix extends Component {
   }
   
   setSelectedColor = (newColor) => {
-    this.setSelectedColor
+    this.setState()
   }
 
   genRow = (vals) => (
