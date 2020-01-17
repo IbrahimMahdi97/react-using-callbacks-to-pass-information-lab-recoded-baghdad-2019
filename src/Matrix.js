@@ -7,7 +7,7 @@ export default class Matrix extends Component {
 
   constructor() {
     super()
-    selectedColor: '#FFF';
+    selectedColor: '#FFF'
   }
   
   setSelectedColor = (newColor) => {
