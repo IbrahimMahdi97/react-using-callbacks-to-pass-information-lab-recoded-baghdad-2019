@@ -7,7 +7,7 @@ export default class Matrix extends Component {
 
   constructor() {
     super()
-    selectedColor
+    selectedColor: '#FFF'
   }
 
   genRow = (vals) => (
